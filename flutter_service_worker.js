@@ -51,7 +51,7 @@ const RESOURCES = {
 "assets/assets/translations/en.json": "3729494e52b542658ac0a8c16d0a7697",
 "assets/FontManifest.json": "2925f17b036f844d8e42ff3efb302520",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "884bafd034789221bb616d0ca5cc3c11",
+"assets/NOTICES": "aeb7ed382809f4fafd3cf22ab5566e79",
 "assets/packages/flutter_google_places/assets/google_black.png": "97f2acfb6e993a0c4134d9d04dff21e2",
 "assets/packages/flutter_google_places/assets/google_white.png": "40bc3ae5444eae0b9228d83bfd865158",
 "assets/packages/flutter_google_places_sdk_platform_interface/assets/google/0.75x/powered_by_google_on_non_white.png": "78b06d238cb55fd775d0faefc44448f7",
@@ -336,9 +336,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "95859894edcd5ddac008dfd9f3c2c8a3",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e0dfed2ba7ffc82cb130401a6c372cba",
-"/": "e0dfed2ba7ffc82cb130401a6c372cba",
-"main.dart.js": "6f7accf976e9d0bfbe9996dbb137ccfe",
+"index.html": "e6fc864c2174b92337fbfd7daf8ec743",
+"/": "e6fc864c2174b92337fbfd7daf8ec743",
+"main.dart.js": "a8fd74f0184cdc6e647f3db4992b1b3d",
 "manifest.json": "63afffcc89088ce2d7352f8f2d5545b0",
 "version.json": "f741e04b53e42865dfd0c82343a39873"
 };
