@@ -1,6 +1,6 @@
 {
-    "name": "crewluv_enterprise",
-    "short_name": "crewluv_enterprise",
+    "name": "enterprise_admin",
+    "short_name": "enterprise_admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
